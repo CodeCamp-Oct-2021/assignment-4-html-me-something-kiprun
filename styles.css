@@ -3,7 +3,8 @@ body{
     display: block
 }
 #mainHeading{
-    color:red
+    color:red;
+    font-size:40px
 }
 .funParagraph{
     color:green
@@ -29,13 +30,17 @@ body{
 
 
 h2{
-    color:black;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    color:purple;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size 25px
 }
         
 figcaption{
     color:red
 }
 p{
-    font-size: 25
+    font-size:20px
+}
+#closing{
+    font-size: 10px;
 }
