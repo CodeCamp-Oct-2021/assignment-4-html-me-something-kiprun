@@ -1,1 +1,46 @@
-/* Write your CSS here! */
+body{
+    margin:8px;
+    display: block
+}
+#mainHeading{
+    color:red;
+    font-size:40px
+}
+.funParagraph{
+    color:green
+}
+#shoes{
+    padding: 0px 0px 0px 300px
+}
+#caption1{
+    padding: 0px 0px 0px 300px
+}
+#skyline{
+    padding: 0px 0px 0px 300px
+}
+#caption2{
+    padding: 0px 0px 0px 300px
+}
+#ticket{
+    padding: 0px 0px 0px 300px
+}
+#caption3{
+    padding: 0px 0px 0px 300px
+}
+
+
+h2{
+    color:purple;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px
+}
+        
+figcaption{
+    color:red
+}
+p{
+    font-size:20px
+}
+#closing{
+    font-size: 10px;
+}
